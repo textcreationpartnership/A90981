@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Britaines time of triumph. Or, The solid subiects observation, shewing in what a magnificent manner, the citizens of London entertained the Kings most excellent majestie, and how the honourable Lord Mayor of London, with the warlike artillery men in their glittering armour, gave His Majestie a martiall-like welcome : also how they presented to His Grace a most rich and costly gift, in token of their loyalty to their soveraigne. Afterward how they solemnized a stately feast, to the which came both the Kings majestie, his gracious Queen Mary, and his royall sonne, Charles our honourable Prince of Wales, whom God preserve : and lastly how the drums beat, trumpets sound, muskets rattle, cannons roare, flags display'd bonfires blasing, bells ringing, with all the melody that might possible be made for ioy of the Kings Majesties safe returne to England. / Written in English prose by Lawrence Price.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90981</idno>
+            <idno type="STC">Wing P3367</idno>
+            <idno type="STC">Thomason E177_17</idno>
+            <idno type="STC">ESTC R17891</idno>
+            <idno type="EEBO-CITATION">99860292</idno>
+            <idno type="PROQUEST">99860292</idno>
+            <idno type="VID">112410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112410)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E177[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Britaines time of triumph. Or, The solid subiects observation, shewing in what a magnificent manner, the citizens of London entertained the Kings most excellent majestie, and how the honourable Lord Mayor of London, with the warlike artillery men in their glittering armour, gave His Majestie a martiall-like welcome : also how they presented to His Grace a most rich and costly gift, in token of their loyalty to their soveraigne. Afterward how they solemnized a stately feast, to the which came both the Kings majestie, his gracious Queen Mary, and his royall sonne, Charles our honourable Prince of Wales, whom God preserve : and lastly how the drums beat, trumpets sound, muskets rattle, cannons roare, flags display'd bonfires blasing, bells ringing, with all the melody that might possible be made for ioy of the Kings Majesties safe returne to England. / Written in English prose by Lawrence Price.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Burton and are to bee sold at the horse-shooe in Smith-field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Processions --  England --  London --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112410:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 126 -->
+            <p>GREAT BRITAINES time of Triumph.</p>
+            <p>OR, The Solid Subiects obſervation, Shewing in what a magnificent manner, the Citizens of London entertained the Kings moſt ex<g ref="char:EOLhyphen"/>cellent majeſtie, and how the honourable Lord May<g ref="char:EOLhyphen"/>or of London, with the warlike Artillery men in their glittering armour, gave his Majeſtie a Mar<g ref="char:EOLhyphen"/>tiall-like welcome; alſo how they preſented to his grace a moſt rich and coſtly gift, in token of their loyalty to their Soveraigne.</p>
+            <p>Afterward how they ſolemnized a ſtately feaſt, to the which came both the Kings majeſtie, his graci<g ref="char:EOLhyphen"/>ous Queene <hi>Mary,</hi> and his Royall Sonne, <hi>Charles</hi> our Honourable Prince of Wales, whom God preſerve: and laſtly how the Drums beat, Trumpets ſound, Muskets Rattle, Cannons Roare, Flags diſplay'd, Bonfires blaſing, Bells Ringing, with all the melody that might poſſible be made for loy of the Kings Majeſties ſafe returne to England.</p>
+            <p>Written in Engliſh proſe by <hi>Lawrence Price.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Burton</hi> and are to bee ſold at the horſe-ſhooe in Smith-field. <hi>1641.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112410:2"/>
+            <!-- PDF PAGE 127 -->
+            <pb facs="tcp:112410:2"/>
+            <!-- PDF PAGE 127 -->
+            <head>Great Britaines time of triumph.</head>
+            <p>NO Sooner had our gracious King <hi>Charles</hi> his ex<g ref="char:EOLhyphen"/>cellence eſtabliſhed an united peace, between his loyall countrymen of Scotland, and us his loving Subjects of England, but hee prepared himſelfe, being accompanied with many of the Nobi<g ref="char:EOLhyphen"/>lity, to ſee his Princely Court of England, whereas four moneths abſence had cauſed a generall mourning Veſture to be worne, throughout the whole Realme of England, every faithfull hearted Engliſhman can wit<g ref="char:EOLhyphen"/>neſſe this my ſaying to be true: Amongſt which num<g ref="char:EOLhyphen"/>berleſſe number of ſolitary mourners I beſeech you to take notice of that Pearles Paragon, our gracious and grieved Queene <hi>Mary.</hi>
+            </p>
+            <p>Who like unto the Turtle Dove, refuſed to be com<g ref="char:EOLhyphen"/>forted in the time of the abſence of her thrice renow<g ref="char:EOLhyphen"/>ned and Princely companion: her bed the bed of care<g ref="char:EOLhyphen"/>fulneſſe, her bread the bread of ſorrow, and her drink often mingled with briniſh teares; but becauſe I have matters of Ioy in hand to ſpeake of, I will here omit theſe ſorrowfull Elegies, and put you in mind of ſuch a Triumphant day of melody, which may raviſh each mans heart with merriment, which heares the report of the ſame; firſt to ſpeake of the noble and honoura<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:112410:3"/>
+               <!-- PDF PAGE 128 -->aſſemblies in Parliament from the higheſt to the meaneſt: their hearts were all filled with the comfor<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ble tydings of the unparalleld news of their ſoveraigns approach.</p>
+            <p>Then ſecondly, the Honourable L. Mayor of London and his followers with all diligence, prepared them<g ref="char:EOLhyphen"/>ſelves in all their warlik abiliments, as if Mars himſelfe the God of Battel had beene their conducter: where<g ref="char:EOLhyphen"/>by what with the ſounding of Trumpets, bouncing of Muskets, and Ratling of Drums, the very aire azure ſeemed to rejoyce, adding Ecchoes to their felicity.</p>
+            <p>Then in ample manner marched the Citizens, with their companies in order, being placed as followes: firſt the 12. leaders of the 12. chiefeſt companies ap<g ref="char:EOLhyphen"/>peared in their gorgeous accoutrements.</p>
+            <p>
+               <hi>Here followeth a liſt of the Companies, which preſented themſelves, before the Kings Majeſtie, on Thurſday, being the</hi> 25. <hi>of</hi> November.</p>
+            <p>Forty of every ſeverall companie mounted on Horſeback with each one a Chaine of Gold about his neck; and two men a peece for their attendance, with their ſtanders borne before them moſt bravely, the Flags and ſtreamers were of ſundry colours according to their callings.</p>
+            <p>The firſt the worthy company of Mercers, the ſecond Groſers, the third Drapers, the fourth Fiſh-mongers, the fift Gold-ſmith, the ſixt Skinners, the ſeventh Marchant Taylors, the eight Haberdaſhers, the ninth Salters, the tenth Ironmongers, the eleventh Vinteners, the twelfth Cloth workers.</p>
+            <p>Theſe Gentlemen Citizens, with thouſands more, which are too tedious to be named, rode triumphant<g ref="char:EOLhyphen"/>ly out of the City of London, to give an humble Salu<g ref="char:EOLhyphen"/>tation
+<pb facs="tcp:112410:3"/>
+               <!-- PDF PAGE 128 -->to this Princely gueſt, and his noble followers, where after they had upon bended knees, preſented to the Kings moſt excellent majeſty, a rich and coſtly gift as a Token of their devoted love to his grace, they ſeemed every one hartily to rejoyce in that his Majeſty did ſo lovingly accept of their gift, and there withall both rich and poore both high and low, old and young, men women and children at once ſhouted forth as if it were in a ſolemne paſſion with theſe words, the Lord preſerve our dread Soveraigne King <hi>Charles.</hi>
+            </p>
+            <p>After that the Lord Meyor, and the reſt of the Al<g ref="char:EOLhyphen"/>dermen of London attended on by Marſſes warlike ſonnes, the Artillery men, and alſo the forenamed twelve companies, of which every maſter had two men, to attend him in Livery Coats, they invited both the King, Queene and Prince, to ſuch a ſumptuous Banquet, that by report, the oldeſt man now living ne<g ref="char:EOLhyphen"/>ver knew the like.</p>
+            <p>This ſumptuous Banquet was kept in Guild Hall, where was plenty of all delicates, that befitted ſuch a worthy Company; there was eating without grudging, drinking, without ſurfetting, Ioy witkout ſorrowing, love without diſſimulation, mirth without mourning, the poore relieved, the widdowes comforted, the Or<g ref="char:EOLhyphen"/>phans cheriſhed, and every one contented.</p>
+            <p>This ſtately feaſt being ended, and the night nearely approaching, the K. Quern and Prince were conducted to his majeſties palace princely, at white Hall in Weſt<g ref="char:EOLhyphen"/>minſter; by the honourable Lord Mayor of London, together with the Sheriffes and Aldermen, and multi<g ref="char:EOLhyphen"/>tudes of other Officers and people, with Links, Tapers, and Torches, while the Bells Ring forth their melodies the Silver Trumpet ſounded forth piercing Ecchoes,
+<pb facs="tcp:112410:4"/>
+               <!-- PDF PAGE 129 -->the Bon-fiers blazing on high, but yet the voyce of the Kings loyall Subjects farre exceeded all the reſt of the muſick; for ſtill the generall cry was, the Lord preſerve King <hi>Charles.</hi>
+            </p>
+            <p>Not onely the voyce of earthly people, graced our gracious King and Queene; but the very fixed ſtarres of the firmament ſeemed as it were to dance for Ioy; as if that <hi>Tytan</hi> and <hi>Cynthia</hi> had made a perfect agree<g ref="char:EOLhyphen"/>ment, to unite a ſecond Nuptiall, and ſo to Ioyne theſe Royall perſonages together, preſently after the which the Lord Mayor of London and the reſt of his ſtately attendance, departed with much honoured Ioy, where now I leave them all in generall, continuing my hearty Prayers for King <hi>Charles,</hi> Queene <hi>Mary,</hi> the Prince of Wales, and all their well wiſhers. Amen, Amen.</p>
+            <trailer>FINJS.</trailer>
+            <pb facs="tcp:112410:4"/>
+            <!-- PDF PAGE 129 -->
+         </div>
+      </body>
+   </text>
+</TEI>
